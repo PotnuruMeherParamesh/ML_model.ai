@@ -1,7 +1,7 @@
 streamlit
+scikit-learn
 python-dotenv
 numpy
 pandas
-scikit-learn
 
 google-generativeai
